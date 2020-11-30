@@ -1,4 +1,13 @@
-# SpringBootDemoExercise
-springboot案例小练习-待增加
+# 一、holle
 
-1、新增hello案例
+# 二、banner
+
+默认的是文件固定命名
+
+## 2.1、配置图片
+
+banner.gif    
+
+## 2.2、配置文档内容显示
+
+banner.txt
